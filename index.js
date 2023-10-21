@@ -14,7 +14,7 @@ const port = process.env.port || 5000;
 //brandShop
 //hGclkNi4YM87YtrJ
 
-// console.log(process.env.DB_User)
+
 
 
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
